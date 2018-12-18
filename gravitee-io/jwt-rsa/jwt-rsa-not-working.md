@@ -1,4 +1,4 @@
-Java code validate successfully. i am sure that the client_id is right.
+Java code validate successfully. But gwio validate fail. I am sure that the client_id is right. And i had subscribed the application to the jwt plan.
 
 ```
 public class JwtUtils {
